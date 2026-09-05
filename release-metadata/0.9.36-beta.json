@@ -1,0 +1,32 @@
+{
+  "version": "0.9.36",
+  "channel": "beta",
+  "sourceRepository": "Avalanche110/AI_Radio",
+  "sourceCommit": "24926b7885d98b81785e40ca2a0331099e6df0c5",
+  "installerTag": "v0.9.36",
+  "updaterTag": "updater-v0.9.36-beta-r1",
+  "recordedAtUtc": "2026-09-05T00:48:55.9861268Z",
+  "reason": "Give the managed release a current commit date so the existing Velopack GitHub source can discover it within its first page of ten releases.",
+  "assets": [
+    {
+      "name": "AI_RADIO-Desktop-0.9.36-beta-delta.nupkg",
+      "size": 3295748,
+      "digest": "sha256:e01da7ebba5cbd129a54da4046188de82d1a60dc3b04f984ad33e2d22c2d99c9"
+    },
+    {
+      "name": "AI_RADIO-Desktop-0.9.36-beta-full.nupkg",
+      "size": 992293918,
+      "digest": "sha256:887f476276be7e4e9d22d6c2c8683bdfb7107afa86d134d0bd306da3ab7566f9"
+    },
+    {
+      "name": "releases.beta.json",
+      "size": 19234,
+      "digest": "sha256:8ec34f984e7f778fb31564f63b75ca39c127b2384c184e7087425c99eb9f37fa"
+    },
+    {
+      "name": "AI_RADIO-Desktop-beta.msi",
+      "size": 894128128,
+      "digest": "sha256:07b62fc26cb6487af49c1b2aade542dfef9c1a04d74f1e629074da6e7c4358ad"
+    }
+  ]
+}
