@@ -1,0 +1,32 @@
+{
+  "version": "0.9.39",
+  "channel": "beta",
+  "sourceRepository": "Avalanche110/AI_Radio",
+  "sourceCommit": "90ca0c06694d3a9c7bdf5a67c3072fdfd2e34da0",
+  "installerTag": "v0.9.39",
+  "updaterTag": "updater-v0.9.39-beta",
+  "recordedAtUtc": "2026-09-08T13:21:23.9867794Z",
+  "reason": "Publish the 0.9.39 parser, Piper settings migration, and JTAC compatibility update.",
+  "assets": [
+    {
+      "name": "AI_RADIO-Desktop-0.9.39-beta-delta.nupkg",
+      "size": 3426369,
+      "digest": "sha256:04cad2e66e1c59e56b666ac93fa2f343dec894eabb3cca547480ead97f523b91"
+    },
+    {
+      "name": "AI_RADIO-Desktop-0.9.39-beta-full.nupkg",
+      "size": 1065161936,
+      "digest": "sha256:be76231a341db125debad06e2fef634ee101a2c72d02af8eae8e877f126a1b48"
+    },
+    {
+      "name": "releases.beta.json",
+      "size": 16414,
+      "digest": "sha256:932193701a99182e3d35e5fc401bf6b1c348fedaa836a4ee21423cc0e27ecb31"
+    },
+    {
+      "name": "AI_RADIO-Desktop-beta.msi",
+      "size": 966987776,
+      "digest": "sha256:795d0f852c73c188e17d0ac890e1beb22f8b2bbc11c3c5a64b475bdbc0e15d00"
+    }
+  ]
+}
