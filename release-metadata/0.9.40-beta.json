@@ -1,0 +1,32 @@
+{
+  "version": "0.9.40",
+  "channel": "beta",
+  "sourceRepository": "Avalanche110/AI_Radio",
+  "sourceCommit": "0e98afb9c3e59154cd73f20b0af2736243564094",
+  "installerTag": "v0.9.40",
+  "updaterTag": "updater-v0.9.40-beta",
+  "recordedAtUtc": "2026-09-09T11:39:49.6773155Z",
+  "reason": "Publish the 0.9.40 Persian Gulf AI_ATC compatibility and TTS provider preset update.",
+  "assets": [
+    {
+      "name": "AI_RADIO-Desktop-0.9.40-beta-delta.nupkg",
+      "size": 3476988,
+      "digest": "sha256:09553009a3cb57bc2fc7e7ac9e91206e0bb86f925dcae62b806d7e681e417a77"
+    },
+    {
+      "name": "AI_RADIO-Desktop-0.9.40-beta-full.nupkg",
+      "size": 1065171537,
+      "digest": "sha256:55867f8c396590a4e1950e6759af59ff716429d579ac14cf1a8415b8c0b9b8db"
+    },
+    {
+      "name": "releases.beta.json",
+      "size": 14087,
+      "digest": "sha256:dcce1c0f6b2c105944d779ff2023a9579950593466705e57fedd749424bf7372"
+    },
+    {
+      "name": "AI_RADIO-Desktop-beta.msi",
+      "size": 966995968,
+      "digest": "sha256:bc6a82f857fb4dc328e7a152267b1b961d69f5de02aef7524be318772491eda3"
+    }
+  ]
+}
