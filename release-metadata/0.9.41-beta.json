@@ -1,0 +1,32 @@
+{
+  "version": "0.9.41",
+  "channel": "beta",
+  "sourceRepository": "Avalanche110/AI_Radio",
+  "sourceCommit": "d7ec84d4cfc64b761c1a5133b5a1a043adc160c0",
+  "installerTag": "v0.9.41",
+  "updaterTag": "updater-v0.9.41-beta",
+  "recordedAtUtc": "2026-09-11T22:18:32.5304540Z",
+  "reason": "Publish the 0.9.41 STT phraseology, radio latency, runtime status, and updater hardening cycle.",
+  "assets": [
+    {
+      "name": "AI_RADIO-Desktop-0.9.41-beta-delta.nupkg",
+      "size": 5830814,
+      "digest": "sha256:e5b673717287ee7bc00b9158e43d6bb306064b5b2e8dfadb152b1853574f95d4"
+    },
+    {
+      "name": "AI_RADIO-Desktop-0.9.41-beta-full.nupkg",
+      "size": 1067458450,
+      "digest": "sha256:cfb3ef667876a59ed0c2d0d28daf93c5de32e3c85170b1096fb321d8936169c7"
+    },
+    {
+      "name": "releases.beta.json",
+      "size": 18530,
+      "digest": "sha256:c0997d65b2e73c2542fa9b979f63e89bc9b6b18d988a771206b8a2172be04796"
+    },
+    {
+      "name": "AI_RADIO-Desktop-beta.msi",
+      "size": 968757248,
+      "digest": "sha256:6a8f685f5da11ec7ff83e5348e313547b3e138f4722c87869ec98bff984a0315"
+    }
+  ]
+}
