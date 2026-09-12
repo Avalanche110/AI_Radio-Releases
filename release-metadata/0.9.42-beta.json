@@ -1,0 +1,32 @@
+{
+  "version": "0.9.42",
+  "channel": "beta",
+  "sourceRepository": "Avalanche110/AI_Radio",
+  "sourceCommit": "3a18aecad6fcf4c53cfd2087c542009d200e5400",
+  "installerTag": "v0.9.42",
+  "updaterTag": "updater-v0.9.42-beta",
+  "recordedAtUtc": "2026-09-12T08:49:45.3952894Z",
+  "reason": "Publish the 0.9.42 scoped Whisper prompting and STT phrase-recognition reliability update.",
+  "assets": [
+    {
+      "name": "AI_RADIO-Desktop-0.9.42-beta-delta.nupkg",
+      "size": 3203273,
+      "digest": "sha256:297c62eb9be853cc35f4d12b137c80856535c6713152b1fca5a321f46c254533"
+    },
+    {
+      "name": "AI_RADIO-Desktop-0.9.42-beta-full.nupkg",
+      "size": 1065216309,
+      "digest": "sha256:c99c09dcf9906278c58a0044c42124bfcea5ef1610e2eb904ea33d50b07fa4ac"
+    },
+    {
+      "name": "releases.beta.json",
+      "size": 17102,
+      "digest": "sha256:cecf65fd7660b2462c736c19f0daccfa8a86f90eb473420c7d8dbaa1c5472456"
+    },
+    {
+      "name": "AI_RADIO-Desktop-beta.msi",
+      "size": 967028736,
+      "digest": "sha256:a7762ee5215bcf13241addea39a7bcd2d2cbb07e0db0787b9666694714037aae"
+    }
+  ]
+}
