@@ -1,0 +1,32 @@
+{
+  "version": "0.9.43",
+  "channel": "beta",
+  "sourceRepository": "Avalanche110/AI_Radio",
+  "sourceCommit": "a0623dcdbfd091f2d20dc372898550994e9aa802",
+  "installerTag": "v0.9.43",
+  "updaterTag": "updater-v0.9.43-beta",
+  "recordedAtUtc": "2026-09-13T08:51:46.3346840Z",
+  "reason": "Publish the 0.9.43 remote-diagnostics and DCS integration reliability update.",
+  "assets": [
+    {
+      "name": "AI_RADIO-Desktop-0.9.43-beta-delta.nupkg",
+      "size": 3926096,
+      "digest": "sha256:4fe1476662a75a2eee5faae631539a3c3a7a5b13946fa2584714e2b9e245e7df"
+    },
+    {
+      "name": "AI_RADIO-Desktop-0.9.43-beta-full.nupkg",
+      "size": 1065275363,
+      "digest": "sha256:0b492c0051ace772108f28c4bbfc30253854e8c6fa2d9ba0cf6178b80b472b81"
+    },
+    {
+      "name": "releases.beta.json",
+      "size": 26364,
+      "digest": "sha256:1d0111b935e8062bf54fb54d4d1c4048a7112abdff3132a81f98752905090b47"
+    },
+    {
+      "name": "AI_RADIO-Desktop-beta.msi",
+      "size": 967073792,
+      "digest": "sha256:a9238485f618f4a2a24246da287f414aaceb40d6cd929670d01965c41bc84168"
+    }
+  ]
+}
